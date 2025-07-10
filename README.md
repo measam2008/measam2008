@@ -23,14 +23,4 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="WhatsApp"/>
   </a>
 </p>
-
-### 🖥️ Developer Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Developer" width="500"/>
-</p>
-
 ---
-
-### 💻 Coding Platform:
-<!-- Add platforms like LeetCode, HackerRank, etc., with logos -->
