@@ -19,8 +19,10 @@
   <a href="https://www.instagram.com/yourusername/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
   </a>
+  <a href="https://wa.me/yourwhatsapplink" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="WhatsApp"/>
+  </a>
 </p>
-
 
 ### 🖥️ Developer Animation
 
