@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm [Your Name]</h2>
+<h2 align="center">Hi 👋, I'm Measam Haider</h2>
 
 - 🎓 I'm a **Computer Science Student**
 - 💻 Passionate about **C++ Development**, **Programming**, **Artificial Intelligence**, and **Web Development**
 - 🌐 You can check out my work on [Click](#)
-- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+- 📫 How to reach me: [measamhaider2008@gmail.com](mailto:your_email@example.com)
 
 ---
 
@@ -27,7 +27,7 @@
 ### 🖥️ Developer Animation
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-4560999-3791163.png" alt="Developer" width="600"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Developer" width="500"/>
 </p>
 
 ---
