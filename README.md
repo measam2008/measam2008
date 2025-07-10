@@ -11,17 +11,16 @@
 
 <p align="left">
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
 
----
 
 ### 🖥️ Developer Animation
 
